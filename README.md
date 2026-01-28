@@ -1,4 +1,4 @@
-# Análise de Vendas, Rentabilidade e Estratégia de Negócio — Power BI
+# Análise de Vendas, Rentabilidade e Estratégia de Negócio - Power BI
 
 ## 📌 Visão Geral do Projeto
 
