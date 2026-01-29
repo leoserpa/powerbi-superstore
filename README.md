@@ -69,7 +69,15 @@ powerbi-superstore/
 
 Power BI, Power Query e DAX.
 
+
 ## 📄 Licença
 
-MIT — veja `LICENSE`.
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+
+## 👨‍💻 Desenvolvedor
+
+**Leonardo Serpa** 
+
 
